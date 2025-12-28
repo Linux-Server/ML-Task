@@ -92,7 +92,6 @@ Where A and B are sets of unique words in the two sentences.
 ```
 ML-Task/
 ├── ml_assessment.py          # Main solution file with all three functions
-├── ML_Engineer_Coding_Assessment_3Q.pdf  # Original problem statement
 └── README.md                 # This file
 ```
 
@@ -151,6 +150,4 @@ ASSESSMENT COMPLETE
 - ✔️ Proper formatting of output
 - ✔️ Comments and documentation
 
-## 📄 License
 
-This project is for assessment purposes only.
